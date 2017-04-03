@@ -1,1 +1,1 @@
-stat133-Spring2017
+stat133Spring2017
